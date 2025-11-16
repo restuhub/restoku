@@ -21,9 +21,8 @@ Fitur utama: menampilkan menu, keranjang belanja, CRUD menu, login admin, dan ce
 ```
 
 restoku/
-├─ assets/
-│  ├─ uploads/        # folder upload user (tidak di-push ke GitHub)
-│  └─ images/         # gambar default seperti foods.jpg
+│─ uploads/        
+│─ images/         # gambar default seperti foods.jpg
 ├─ src/               # file PHP utama
 │  ├─ cart.php
 │  ├─ config.php      # template aman
